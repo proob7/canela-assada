@@ -10,7 +10,7 @@
     <header>
         <h1>Impacto do Desmatamento</h1>
         <img src="paisagem-urbana.jpg" alt="Foto das paisagens urbanas, um lugar com muitas árvores e mata nativa preservada.">
-        <p>O desmatamento intensifica fenômenos negativos no meio ambiente e na vida das pessoas, afetando enchentes, temperatura e qualidade de vida.</p>
+        <p>O desmatamento causa varios fatores na Terra, mas principalmente acabando com o meio ambiente, e vida de animais.</p>
         <nav>
             <ul>
                 <li><a href="#problemas">Os Problemas</a></li>

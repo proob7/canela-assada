@@ -32,3 +32,13 @@
    <h3>Calor excessivo e ilhas de calor</h3>
                 <p>O desmatamento reduz a evapotranspiração das plantas, elevando a temperatura das cidades e aumentando o efeito das ilhas de calor.</p>
             </article>
+
+<article>
+                <h3>Redução da qualidade de vida</h3>
+                <p>A destruição das florestas impacta a biodiversidade, aumenta a poluição e reduz o contato com áreas verdes, afetando a saúde mental e respiratória.</p>
+            </article>
+
+
+
+
+            

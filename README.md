@@ -44,5 +44,15 @@
  <section id="conclusão" class="conteudo">
    <h2>Conclusão</h2>
    <p>O desmatamento acaba com qualquer tipo de vida, principalmente a nossa. Para resolvermos isso é necessario cuidar mais do meio ambiente e mudar os meios de poluição que causamos ao decorrer de nossas eras, como, produzir menos gas carbonico nos ares</p>
-     <a href="https://www.youtube.com/watch?v=zkQu0QNcWjA" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
+     <a href="https://www.youtube.com/watch?v=zkQu0QNcWjA" class="cta-button" target="_blank">O estrago <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
         </section>
+
+<section id="consequencias" class="conteudo">
+            <h2>Consequências</h2>
+            <ul>
+                <li>Aumento das enchentes e erosão do solo</li>
+                <li>Aumento das temperaturas e mudanças climáticas</li>
+                <li>Perda da biodiversidade</li>
+                <li>Redução da qualidade de vida nas cidades</li>
+                <li>Agravamento de problemas de saúde</li>
+                <li>Impacto na economia de comunidades locais</li>

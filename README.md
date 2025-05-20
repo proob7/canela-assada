@@ -53,6 +53,6 @@
                 <li>Aumento das enchentes e erosão do solo</li>
                 <li>Aumento das temperaturas e mudanças climáticas</li>
                 <li>Perda da biodiversidade</li>
-                <li>Redução da qualidade de vida nas cidades</li>
-                <li>Agravamento de problemas de saúde</li>
+                <li>Redução da qualidade de vida nos campos</li>
+                <li>Possivel doenças desgenerativas</li>
                 <li>Impacto na economia de comunidades locais</li>

@@ -38,5 +38,5 @@
                 <p>A destruição das florestas impacta a biodiversidade, aumenta a poluição e reduz o contato com áreas verdes, afetando a saúde mental e respiratória.</p>
             </article>
 
- <a href="https://youtu.be/zkQu0QNcWjA?si=MbCSO7n1tCh3cZGN" class="cta-button" target="_blank">Como isso estraga o planeta Terra? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
+ <a href="https://www.youtube.com/watch?v=zkQu0QNcWjA" class="cta-button" target="_blank">Como isso estraga o planeta Terra? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
         </section>

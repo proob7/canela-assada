@@ -38,5 +38,11 @@
                 <p>A destruição das florestas impacta a biodiversidade, aumenta a poluição e reduz o contato com áreas verdes, afetando a saúde mental e respiratória.</p>
             </article>
 
- <a href="https://www.youtube.com/watch?v=zkQu0QNcWjA" class="cta-button" target="_blank">Como isso estraga o planeta Terra? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
+ <a href="https://www.youtube.com/watch?v=zkQu0QNcWjA" class="cta-button" target="_blank">Como isso acaba com o planeta Terra? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
         </section>
+
+ <section id="conclusão" class="conteudo">
+   <h2>Conclusão</h2>
+   <p>O dematamento acaba com quaqlquer tipo de vida, primcipalmente a nossa. Para resolvermos isso é necessario cuidar mais do meio ambiente e mudar os meios de poluição que causamos ao decorrer de nossas eras, como, produzir menos gas carbonico nos ares</p>
+     
+ </section>

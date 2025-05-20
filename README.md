@@ -25,12 +25,12 @@
             <h2>Os Problemas</h2>
             <article>
                 <h3>Aumento das enchentes</h3>
-                <p>As árvores absorvem a água da chuva e ajudam na infiltração no solo. Sem vegetação, a água escoa rapidamente, causando enchentes.</p>
+                <p>As vegetações são importantes para manter o solo firme, absorvem a agua, e sem elas é destruição total</p>
             </article>
 
 <article>
    <h3>Calor excessivo e ilhas de calor</h3>
-                <p>O desmatamento reduz a evapotranspiração das plantas, elevando a temperatura das cidades e aumentando o efeito das ilhas de calor.</p>
+                <p>O desmatamento reduz a evapotranspiração das plantas, fazendo com que a temperatura fique mais elevada e assim aumentando as secas, e diminuindo as vegetações.</p>
             </article>
 
 <article>

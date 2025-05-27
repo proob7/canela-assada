@@ -62,8 +62,9 @@
 </main>
 
 <footer>
-        <a href="https://www.linkedin.com/in/femascheti" class="cta-footer">Faça parte dessa causa!</a>
-        <p>2025 | @femascheti</p>
+        <a href="https://www.linkedin.com/in/femascheti" class="cta-footer">Faça parte disto!!</a>
+        <p>2025 | @kaua._henrique_0</p>
     
-</footer>
-        
+   </footer>
+</body>
+</html>

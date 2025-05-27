@@ -68,3 +68,5 @@
    </footer>
 </body>
 </html>
+
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');

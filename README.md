@@ -51,7 +51,7 @@
 
             <h2>Consequências</h2>
             <ul>
-                <li>Aumento das enchentes e erosão do solo</li>
+<li>Aumento das enchentes e erosão do solo</li>
                 <li>Aumento das temperaturas e mudanças climáticas</li>
                 <li>Perda da biodiversidade</li>
                 <li>Redução da qualidade de vida nos campos</li>

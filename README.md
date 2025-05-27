@@ -14,7 +14,7 @@
         <nav>
             <ul>
                 <li><a href="#problemas">Os Problemas</a></li>
-                <li><a href="#consequencias">Consequências</a></li>
+                <li><a href="#consequencias">Consequências</a></li>l
                 <li><a href="#conclusao">Conclusão</a></li>
             </ul>
         </nav>
@@ -49,7 +49,7 @@
 
 <section id="consequencias" class="conteudo">
 
-            <h2>Consequências</h2>
+<h2>Consequências</h2>
             <ul>
 <li>Aumento das enchentes e erosão do solo</li>
                 <li>Aumento das temperaturas e mudanças climáticas</li>

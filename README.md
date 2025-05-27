@@ -14,7 +14,7 @@
         <nav>
             <ul>
                 <li><a href="#problemas">Os Problemas</a></li>
-                <li><a href="#consequencias">Consequências</a></li>l
+                <li><a href="#consequencias">Consequências</a></li>
                 <li><a href="#conclusao">Conclusão</a></li>
             </ul>
         </nav>

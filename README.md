@@ -48,6 +48,7 @@
         </section>
 
 <section id="consequencias" class="conteudo">
+
             <h2>Consequências</h2>
             <ul>
                 <li>Aumento das enchentes e erosão do solo</li>
@@ -56,3 +57,13 @@
                 <li>Redução da qualidade de vida nos campos</li>
                 <li>Possivel doenças desgenerativas</li>
                 <li>Impacto na economia de comunidades locais</li>
+         </ul>
+        </section>
+</main>
+
+<footer>
+        <a href="https://www.linkedin.com/in/femascheti" class="cta-footer">Faça parte dessa causa!</a>
+        <p>2025 | @femascheti</p>
+    
+</footer>
+        
